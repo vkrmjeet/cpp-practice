@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-
 void simplesieve(vector<int> &p,int n)
 {
     vector<bool> isprime(n,true);
